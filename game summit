@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chakravyuh: NavBharat Game Innovators Summit 2025</title>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(120deg, #0a1a40, #f7931e);
+      color: #fff;
+    }
+    header {
+      text-align: center;
+      padding: 60px 20px;
+    }
+    header h1 {
+      font-family: 'Orbitron', sans-serif;
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin: 10px 0 0;
+    }
+    .section {
+      padding: 50px 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .card {
+      background: rgba(255,255,255,0.1);
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.4);
+      margin: 20px 0;
+    }
+    h2 {
+      font-size: 1.8rem;
+      margin-bottom: 20px;
+      color: #ffd700;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    ul li {
+      margin: 10px 0;
+    }
+    .invite-card {
+      text-align: center;
+      padding: 30px;
+      background: linear-gradient(135deg, royalblue, orange);
+      border-radius: 20px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.5);
+      color: #fff;
+    }
+    .invite-card h3 {
+      font-size: 1.5rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background: #ffd700;
+      color: #000;
+      font-weight: 600;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      background: #fff;
+      color: #000;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      font-size: 0.9rem;
+      background: rgba(0,0,0,0.5);
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Chakravyuh: NavBharat Game Innovators Summit 2025</h1>
+    <p>“From Epic Strategies to Digital Realities”</p>
+    <p>📍 Online Webinar | 2025</p>
+  </header>
+
+  <section class="section">
+    <div class="card">
+      <h2>🌟 About the Event</h2>
+      <p>A national webinar uniting developers, innovators, and storytellers to explore how India’s history, culture, and innovation inspire the future of game development.</p>
+    </div>
+
+    <div class="card">
+      <h2>🎤 Special Guests</h2>
+      <ul>
+        <li>🎮 Game Studio Founders & Innovators</li>
+        <li>📜 Historians & Storytellers</li>
+        <li>🤖 Tech Experts (AI/VR/AR)</li>
+        <li>🏛️ Startup & Policy Leaders</li>
+        <li>🔥 Pro Gamers & Influencers</li>
+      </ul>
+    </div>
+
+    <div class="card">
+      <h2>🎁 Why Attend?</h2>
+      <ul>
+        <li>✅ Knowledge of new tools & trends</li>
+        <li>✅ Inspiration from India’s heritage</li>
+        <li>✅ Networking & career guidance</li>
+        <li>✅ Digital participation certificate</li>
+        <li>✅ Internship & collaboration opportunities</li>
+      </ul>
+    </div>
+
+    <!-- Invitation Card Section -->
+    <div class="invite-card">
+      <h3>🎮 You’re Invited!</h3>
+      <p><strong>Chakravyuh: NavBharat Game Innovators Summit 2025</strong></p>
+      <p>“From Epic Strategies to Digital Realities”</p>
+      <p>📅 Date: [Insert Date] | 🕒 Time: [Insert Time] <br> 💻 Platform: [Zoom / Google Meet / MS Teams]</p>
+      <a href="[Insert Registration Link]" class="btn">👉 Register Now</a>
+    </div>
+  </section>
+
+  <footer>
+    📢 Be part of India’s Game Innovation Movement! <br>
+    © 2025 Chakravyuh Summit
+  </footer>
+
+</body>
+</html>
